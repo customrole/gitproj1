@@ -4,13 +4,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
    <modelVersion>4.0.0</modelVersion>
    <groupId>org.javacodegeeks</groupId>
    <artifactId>sampleProject</artifactId>
-   <version>4.0.1.vijay</version>
+   <version>4.0.1</version>
    <packaging>jar</packaging>
    <dependencies>
       <dependency>
          <groupId>junit</groupId>
          <artifactId>junit</artifactId>
-         <version>4.11kumar</version>
+         <version>4.11</version>
       </dependency>
     </dependencies>
 <!-- My repos changes by sanjay -->
