@@ -1,1 +1,3 @@
 *.py linguist-language=Java
+special-vendored-path/* linguist-vendored
+main/java/com/javacodegeeks/*.html linguist-vendored=false
