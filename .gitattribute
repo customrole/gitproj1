@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-src/* linguist-vendored
+
 =======
 # Handle line endings automatically for files detected as text
 # and leave all files detected as binary untouched.
@@ -41,5 +40,5 @@ src/* linguist-vendored
 *.png           binary
 *.so            binary
 *.war           binary
+src/* linguist-vendored
 
->>>>>>> 27767dd45bc0bfbdc26e11d414ac932311e6fcd3
