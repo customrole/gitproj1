@@ -1,2 +1,2 @@
-*.py linguist-language=Java
-main/java/com/javacodegeeks/*html linguist-vendored
+* linguist-vendored
+*.py linguist-vendored=false
