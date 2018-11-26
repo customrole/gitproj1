@@ -5,6 +5,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
    <groupId>org.javacodegeeks</groupId>
    <artifactId>sampleProject</artifactId>
    <version>4.0.1</version>
+   #testing the team city with git
    <packaging>jar</packaging>
    <dependencies>
       <dependency>
