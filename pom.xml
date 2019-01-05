@@ -6,6 +6,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
    <artifactId>sampleProject</artifactId>
    <version>4.0.1</version>
    #testing the team city with git
+   #testing the github commit history************************
    <packaging>jar</packaging>
    <dependencies>
       <dependency>
