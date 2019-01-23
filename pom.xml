@@ -10,6 +10,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
    #testing the github commit history************************
    #adding new line to test this branch will trigger a teamcity build******
    <packaging>jar</packaging>
+	 dknfdpinv[rppojebksvn
    <dependencies>
       <dependency>
          <groupId>junit</groupId>
