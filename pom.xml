@@ -74,7 +74,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
                 <executable>C:\Program Files\Java\jdk1.8.0_91\bin\javac.exe</executable>
             </configuration>
         </plugin>
-
+VCSTRIGGER-JNNGHJKJKKKBBBB SET
 <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
