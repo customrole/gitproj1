@@ -210,5 +210,5 @@ VCSTRIGGER-JNNGHJKJKKKBBBB SET
      <url>dav:http://localhost:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
-  
+  VCSTRIGGER 2
 </project>
