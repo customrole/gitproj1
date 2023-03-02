@@ -1,0 +1,4 @@
+This file is created to test github actions workflow.
+I will manually trigger the workflow which runs on ubuntu server and copies the content to the server using checkout action.
+I have passed following commands like listing the PWD and what are the files in it.
+Now I want to CAT this file.
