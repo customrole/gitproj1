@@ -32,4 +32,5 @@ jobs:
       run: |
         pwd
         ls -ltr
+        cat testgithuactions.txt
         echo "Hello ${{ github.event.inputs.name }}"
