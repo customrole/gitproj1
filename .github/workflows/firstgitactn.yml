@@ -28,8 +28,6 @@ jobs:
     # Runs a single command using the runners shell
     - name: Checkout
       uses: actions/checkout@v3.3.0
-      with:
-        repository: if ${{ github.repository }} == true
     - name: Send greeting
       run: |
         pwd
